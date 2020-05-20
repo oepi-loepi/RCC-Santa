@@ -42,7 +42,7 @@ Item {
 
         Image {
 		id: spriteImage
-		source: "SantaSprites2.png"
+		source: "https://raw.githubusercontent.com/oepi-loepi/RCC-Santa/master/components/SantaSprites2.png"
 		y:0
 		x:-parent.width*sprite.frame
         }
